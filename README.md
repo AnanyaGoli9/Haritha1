@@ -1,2 +1,1 @@
-# Haritha1
-All about me
+Hi , I am Haritha. Currently trying some github couse.
